@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Precision Bug](https://github.com/CoolAleks/Precision/issues/1)
+* [Проверка работоспособности начисления бонуса](https://github.com/CoolAleks/Precision/issues/1)
 
 Тестирование производилось в следующем окружении:
 * windows 10pro 64 bit
